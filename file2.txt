@@ -1,0 +1,4 @@
+this is content for file2.txt
+
+this is content line 2 for file2.txt
+
